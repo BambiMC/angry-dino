@@ -19,5 +19,9 @@
       }
     ]
   },
-  "publisher": "FabianBerger"
+  "publisher": "FabianBerger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BambiMC/angry-dino.git"
+  }
 }
