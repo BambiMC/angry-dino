@@ -1,21 +1,23 @@
 {
-  "name": "alien-zebra",
-  "displayName": "Alien Zebra",
-  "description": "just like an alien zebra ^^",
+  "name": "angry-dino",
+  "displayName": "Angry Dino",
+  "description": "just like an angry dino ^^",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Alien Zebra",
+        "label": "Angry Dino",
         "uiTheme": "vs-dark",
-        "path": "./themes/Alien Zebra-color-theme.json"
+        "path": "./themes/Angry Dino-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "FabianBerger"
 }
