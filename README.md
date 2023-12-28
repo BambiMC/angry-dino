@@ -18,6 +18,6 @@ Please feel free to contribute to the project on [GitHub](https://github.com/Bam
 
 ## License
 
-Alien Dark is licensed under the [MIT License](LICENSE).
+Angry Dino is licensed under the [MIT License](LICENSE).
 
 **Enjoy!**
